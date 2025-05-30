@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "welcome to QA Cards Service"
+  contactDetails:
+    name: "shekar_eddandi QA leader"
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 3444
+    - 89553

@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "welcome to QA Accounts Service"
+  contactDetails:
+    name: "shekar_eddandi - QA Lead"
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 996678
+    - 832823

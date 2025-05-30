@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "welcome to QA Loans Service"
+  contactDetails:
+    name: "shekar_eddandi - QA owner"
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 3444
+    - 89553

@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+loans:
+  message: "welcome to Loans Service"
+  contactDetails:
+    name: "shekar_eddandi - Loans Lead"
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 996678
+    - 832823

@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "welcome to prod Accounts Service"
+  contactDetails:
+    name: "shekar_eddandi - product owner"
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 12344
+    - 44553

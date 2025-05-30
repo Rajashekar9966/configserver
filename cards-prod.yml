@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: "welcome to prod Cards Service"
+  contactDetails:
+    name: "shekar_eddandi product owner "
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 3444
+    - 89553

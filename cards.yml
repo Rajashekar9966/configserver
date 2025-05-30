@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "welcome to Cards Service"
+  contactDetails:
+    name: "shekar_eddandi"
+    email: "shekar_eddandi@gmail"
+  onCallSupport:
+    - 3444
+    - 89553
