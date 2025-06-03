@@ -2,7 +2,7 @@ build:
   version: 8.0
 
 accounts:
-  message: "welcome to prod Accounts Service"
+  message: "welcome to production Accounts Service"
   contactDetails:
     name: "shekar_eddandi - product owner"
     email: "{cipher}1875c3dea7917145f051f1b4861b1f5e241e499bf9fc3e1acbc035bbe7512602d22bad662570f309345298caca8951ae"
