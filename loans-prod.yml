@@ -2,9 +2,9 @@ build:
   version: 2.0
 
 loans:
-  message: "welcome to production Loans Service"
+  message: "welcome to production Loans Service API"
   contactDetails:
-    name: "shekar_eddandi - product owner"
+    name: "Rajashekar_eddandi - product owner"
     email: "shekar_eddandi@gmail"
   onCallSupport:
     - 12344
