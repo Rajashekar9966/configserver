@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 cards:
-  message: "welcome to production Cards Service API"
+  message: "welcome to shekar's production Cards Service API"
   contactDetails:
     name: "Rajashekar_eddandi product owner "
     email: "shekar_eddandi@gmail"
